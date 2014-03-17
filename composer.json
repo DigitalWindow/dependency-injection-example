@@ -1,0 +1,6 @@
+{
+    "require": {
+        "digitalwindow/dependency-injection": "1.0.6",
+        "phpunit/phpunit":                    "3.7.*"
+    }
+}
